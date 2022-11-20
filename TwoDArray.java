@@ -28,7 +28,7 @@ public class TwoDArray {
           
           printArr(arr);
           int[][]arrr = new int[2][];
-          arrr[0] = new int[3];
+          arrr[0] = new int[3];  // jagged array
           arrr[1]= new int[2];
       }
 }
